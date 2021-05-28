@@ -138,7 +138,9 @@ diskutiert.
 
 ## Lizenz
 
-"Makroökonomische Modelle - Ein multiparadigmatischer Überblick" (c) 2021 Claudius Gräbner
+"Makroökonomische Modelle - Ein multiparadigmatischer Überblick" 
+
+Copyright (c) 2021, Claudius Gräbner All rights reserved.
 
 Die Videos, Slides und sonstigen Handreichungen sind unter einer 
 **Creative Commons CC-BY 4.0**-Lizenz lizensiert. 
