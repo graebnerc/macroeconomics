@@ -1,3 +1,4 @@
 .DS_Store
 information/*.pages
 slides/*.key
+derivations/*.tex

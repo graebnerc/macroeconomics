@@ -60,13 +60,15 @@ auf Github kenntlich gemacht.
 
 [Slides](slides/T03-Elemente-1.pdf)
 
+[Herleitungen](derivations/T03-Herleitungen.pdf)
+
 [Videos](https://www.youtube.com/playlist?list=PLZDawQMrG1RKuCR3sZVDXYedk5Ft2R24E)
 
 ## Termin 4: Kernelemente von Wachstumsmodellen II
 
 [Slides](slides/T04-Elemente-2.pdf)
 
-[Herleitungen](slides/T04-Elemente-2.pdf)
+[Herleitungen](derivations/T04-Herleitung-Lagrange.pdf)
 
 [Videos](https://www.youtube.com/playlist?list=PLZDawQMrG1RINPFcR5HMfh0WLMlG-eMAN)
 
@@ -85,7 +87,7 @@ Eine sehr gute Einführung findet sich in
 
 [Slides](slides/T06-Neoklassik.pdf)
 
-[Herleitungen](slides/T06-Herleitungen.pdf)
+[Herleitungen](derivations/T06-Herleitungen.pdf)
 
 [Videos](https://www.youtube.com/playlist?list=PLZDawQMrG1RJgaBPEiNh5JqU5AJI6ABG0)
 
@@ -108,6 +110,8 @@ die entsprechende Literaturliste.
 ## Termin 8: Keynesinische Wachstumsmodelle
 
 [Slides](slides/T08-Keynes.pdf)
+
+[Herleitungen](derivations/T08-Herleitungen.pdf)
 
 [Videos](https://www.youtube.com/playlist?list=PLZDawQMrG1RKXGmA1w8fr0lq_CBMeaAsr)
 
