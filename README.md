@@ -26,8 +26,8 @@ Für jeden Termin gibt es Vorlesungsvideos, die über die Links unten verfügbar
 Für zwei der Termine sind leider (noch) keine Videos vorhanden, diese werde ich nach 
 Möglichkeit nachträglich aufnehmen und hinzufügen. 
 
-Für alle Termine gibt es Grundlagenliteratur bzw. weitergehende Quellen.
-Die entsprechenden Referenzen sind all in einem gemeinsamen Dokument zusammengefasst,
+Für jeden Termin gibt es Grundlagenliteratur bzw. weitergehende Quellen.
+Die entsprechenden Referenzen sind alle in einem gemeinsamen Dokument zusammengefasst,
 das unten verlinkt ist.
 
 Für Feedback, Fragen und Anmerkungen bin ich natürlich sehr dankbar. Dafür kann
